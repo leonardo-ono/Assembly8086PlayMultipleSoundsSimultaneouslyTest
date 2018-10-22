@@ -1,0 +1,14 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00174H 00175H MAIN               
+ 00175H 00267H 000F3H DATA               
+ 00268H 00367H 00100H STACK              
+ 00368H 003DBH 00074H TIMER              
+ 003DCH 0047FH 000A4H SOUND              
+ 00480H 0050FH 00090H ACTIVE_SOUNDS_SEGMENT 
+ 00510H 0CE58H 0C949H MUSIC_SOUND        
+ 0CE59H 11579H 04721H SOUND_EFFECTS      
+
+Program entry point at 0000:0000
+
